@@ -9,7 +9,7 @@ Descrição:
 | :rocket: URL         | [Visão Computacional: detecção de movimento com OpenCV](https://cursos.alura.com.br/course/visao-computacional-deteccao-movimento-opencv)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-<p align="left"> <img src="http://databool.com/wp-content/uploads/2020/03/0_7s3HcYYvpnUhzDkG-1536x500.png" alt="heveraldob12"   /> </p>
+<p align="left"> <img src="https://github.com/Heveraldob12/Cars_Counter/blob/master/dados/car.jpg" alt="heveraldob12"   /> </p>
 
 
 ## Detalhes do projeto/Project's details👨🏾‍💻
@@ -23,7 +23,7 @@ Using motion detection courses to count cars, remove objects, and study kernels,
 The course made available the videos, and I also made a challenge to create a dataset based on the mask data (GMG, MOG, KNN...).
 
 
-<img align="right" alt="coding" width="100" src="https://www.alura.com.br/assets/api/cursos/visao-computacional-deteccao-movimento-opencv.svg#vitrinedev">
+<img align="right" alt="coding" width="100" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png#vitrinedev">
 
 ## 
 ☢️☢️☢️ Qualquer erro de código ou gramatical, por favor entrar em contato
