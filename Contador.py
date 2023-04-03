@@ -81,6 +81,7 @@ def show_info(frame, mask):
     cv2.imshow("Video Original", frame)
     # cv2.imshow("Detectar", mask)
 
+
 cap = cv2.VideoCapture(VIDEO)
 background_subtractor = Subtractor(algorithm_type)
 
@@ -109,6 +110,7 @@ while True:
         centro = centroide(x, y, w, h)
         detec.append(centro)
         cv2.circle(frame, centro, 4, (0, 0, 255), -1)
+        
 
     set_info(detec)
     show_info(frame, mask)
