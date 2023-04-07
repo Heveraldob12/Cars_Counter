@@ -4,7 +4,7 @@ Descrição:
 
 | :placard: Vitrine.Dev |    Repositório do [Heveraldo](https://www.linkedin.com/in/heveraldo-serra-7b3544200/)  |
 | -------------  | --- |
-| :sparkles: Nome        | **Curso de Django Rest Framework**
+| :sparkles: Nome        | **Curso de ORC**
 | :label: Tecnologias | Python (tecnologias utilizadas)
 | :rocket: URL         | [Visão Computacional: detecção de movimento com OpenCV](https://cursos.alura.com.br/course/visao-computacional-deteccao-movimento-opencv)
 
